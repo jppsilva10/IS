@@ -1,0 +1,11 @@
+syntax = "proto2";
+
+package json;
+
+option java_multiple_files = true;
+option java_outer_classname = "TransactionProtos";
+
+message Transaction {
+    required float value = 1;
+    required int64 currency = 2;
+}

@@ -1,0 +1,11 @@
+data/Ticket.class
+CriaManagers.class
+data/Trip.class
+data/UserDTO.class
+data/DTOMapping.class
+data/TicketDTO.class
+data/Student.class
+data/User.class
+data/TripDTO.class
+data/Manager.class
+data/Place.class

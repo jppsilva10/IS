@@ -1,0 +1,15 @@
+/workspace/Nova Pasta/restws/src/main/java/book/ApplicationConfig.java
+/workspace/Nova Pasta/restws/src/main/java/data/Credit.java
+/workspace/Nova Pasta/restws/src/main/java/data/Highest_metric.java
+/workspace/Nova Pasta/restws/src/main/java/data/Payment.java
+/workspace/Nova Pasta/restws/src/main/java/data/Total_metric.java
+/workspace/Nova Pasta/restws/src/main/java/data/Balance.java
+/workspace/Nova Pasta/restws/src/main/java/data/ClientDTO.java
+/workspace/Nova Pasta/restws/src/main/java/data/Managers.java
+/workspace/Nova Pasta/restws/src/main/java/data/Balance_last_month.java
+/workspace/Nova Pasta/restws/src/main/java/book/MyService.java
+/workspace/Nova Pasta/restws/src/main/java/ejbs/IBean.java
+/workspace/Nova Pasta/restws/src/main/java/ejbs/Bean.java
+/workspace/Nova Pasta/restws/src/main/java/data/Client.java
+/workspace/Nova Pasta/restws/src/main/java/data/Currency.java
+/workspace/Nova Pasta/restws/src/main/java/data/ManagersDTO.java

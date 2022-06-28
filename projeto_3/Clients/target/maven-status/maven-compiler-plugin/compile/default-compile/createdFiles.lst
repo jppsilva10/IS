@@ -1,0 +1,12 @@
+json/TransactionOrBuilder.class
+kafka/ClientThreads.class
+json/TransactionProtos.class
+data/Currency.class
+json/JSONSerializer.class
+data/Manager.class
+json/Transaction.class
+json/Transaction$Builder.class
+json/Transaction$1.class
+kafka/MakeCredits.class
+kafka/MakePayments.class
+data/Client.class

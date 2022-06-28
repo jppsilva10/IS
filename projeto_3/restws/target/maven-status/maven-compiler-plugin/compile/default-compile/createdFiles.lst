@@ -1,0 +1,15 @@
+data/Managers.class
+data/Balance.class
+data/Balance_last_month.class
+data/Currency.class
+book/ApplicationConfig.class
+data/Credit.class
+data/ManagersDTO.class
+data/Payment.class
+data/Client.class
+data/Total_metric.class
+data/Highest_metric.class
+ejbs/IBean.class
+data/ClientDTO.class
+book/MyService.class
+ejbs/Bean.class
